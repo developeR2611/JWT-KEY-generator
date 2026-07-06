@@ -1,0 +1,6 @@
+{
+  "name": "JWT Key Generator",
+  "description": "A modern, secure JWT secret generator for developers. Generate cryptographically secure secrets with custom length, character sets, and formats (Base64, Hex, UUID).",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
