@@ -39,7 +39,7 @@ A modern, privacy-first JWT Secret Key Generator built with React, TypeScript, a
 
 
 
-<img width="1187" height="891" alt="homepage" src="https://github.com/user-attachments/assets/6e41163b-c57d-4efe-b039-30549e6d9ed0" /><img width="517" height="1280" alt="mobile" src="https://github.com/user-attachments/assets/5d268f17-4ba6-455c-a7a0-b2deb54fadae" />
+<img width="600" height="450" alt="homepage" src="https://github.com/user-attachments/assets/6e41163b-c57d-4efe-b039-30549e6d9ed0" /><img width="517" height="800" alt="mobile" src="https://github.com/user-attachments/assets/5d268f17-4ba6-455c-a7a0-b2deb54fadae" />
 
 
 ---
